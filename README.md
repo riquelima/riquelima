@@ -3,9 +3,9 @@
 <!-- HEADER BANNER COM GOOGLE FONTS (ORBITRON & SPACE GROTESK) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=220&section=header&text=HENRIQUE%20LIMA&fontSize=50&fontAlignY=36&animation=fadeIn&font=Orbitron&desc=QA%20ENGINEER%20%E2%80%A2%20FOUNDER%20%40%20INTELEKTUS%20%E2%80%A2%20AI%20ARCHITECT&descAlignY=58&descAlign=50" alt="Henrique Lima Header Banner" width="100%" />
 
-<!-- TYPING ANIMATION COM GOOGLE FONT (SPACE GROTESK) -->
+<!-- TYPING ANIMATION COM GOOGLE FONT (BUNGEE) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3000&pause=1000&color=35D0E5&center=true&vCenter=true&width=700&lines=QA+Engineer+in+Mission-Critical+Telecom+BSS%2FOSS;Founder+%40+Intelektus+%E2%80%94+AI+%26+Intelligent+SaaS;Architecting+Autonomous+AI+Agents+%26+n8n+Workflows;Translating+complex+business+rules+into+resilient+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bungee&weight=400&size=18&duration=3000&pause=1000&color=35D0E5&center=true&vCenter=true&width=800&height=50&lines=QA+Engineer+in+Mission-Critical+Telecom+BSS%2FOSS;Founder+%40+Intelektus+%E2%80%94+AI+%26+Intelligent+SaaS;Architecting+Autonomous+AI+Agents+%26+n8n+Workflows;Translating+complex+business+rules+into+resilient+code" alt="Typing SVG" />
 </a>
 
 <br><br>
