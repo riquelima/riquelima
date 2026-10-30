@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION COM GOOGLE FONT (BUNGEE) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Bungee&weight=400&size=25&duration=3000&pause=1000&color=35D0E5&center=true&vCenter=true&width=800&height=50&lines=QA+Engineer+in+Mission-Critical+Telecom+BSS%2FOSS;Founder+%40+Intelektus+%E2%80%94+AI+%26+Intelligent+SaaS;Architecting+Autonomous+AI+Agents+%26+n8n+Workflows;Translating+complex+business+rules+into+resilient+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bungee&weight=400&size=20&duration=3000&pause=1000&color=35D0E5&center=true&vCenter=true&width=800&height=50&lines=QA+Engineer+in+Mission-Critical+Telecom+BSS%2FOSS;Founder+%40+Intelektus+%E2%80%94+AI+%26+Intelligent+SaaS;Architecting+Autonomous+AI+Agents+%26+n8n+Workflows;Translating+complex+business+rules+into+resilient+code" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -14,14 +14,15 @@
   <a href="https://www.linkedin.com/in/limahenrique"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://wa.me/5571985431158"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="mailto:henrique.souza.lima@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/riquelima/henriquelimasocial"><img src="https://img.shields.io/badge/🎮_Playable_Portfolio-FF0055?style=for-the-badge" alt="Playable Portfolio" /></a>
+  <a href="https://henriquelimasocial.vercel.app/"><img src="https://img.shields.io/badge/🎮_Playable_Portfolio-FF0055?style=for-the-badge" alt="Playable Portfolio" /></a>
 </p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+<!-- TITULO EM BUNGEE INLINE -->
+<img src="https://readme-typing-svg.demolab.com?font=Bungee+Inline&weight=400&size=24&pause=1000&color=000000&center=false&vCenter=true&width=400&height=40&lines=ABOUT+ME" alt="About Me" />
 
 With **10+ years of software engineering experience**, I connect the analytical rigor of **Quality Assurance Engineering** with the speed of building cutting-edge **Autonomous AI Agents & SaaS products**:
 
@@ -31,7 +32,8 @@ With **10+ years of software engineering experience**, I connect the analytical 
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+<!-- TITULO EM BUNGEE INLINE -->
+<img src="https://readme-typing-svg.demolab.com?font=Bungee+Inline&weight=400&size=24&pause=1000&color=000000&center=false&vCenter=true&width=500&height=40&lines=TECH+STACK+%26+TOOLING" alt="Tech Stack and Tooling" />
 
 <div align="center">
 
@@ -47,7 +49,8 @@ With **10+ years of software engineering experience**, I connect the analytical 
 
 ---
 
-### 🚀 Featured Production Projects
+<!-- TITULO EM BUNGEE INLINE -->
+<img src="https://readme-typing-svg.demolab.com?font=Bungee+Inline&weight=400&size=24&pause=1000&color=000000&center=false&vCenter=true&width=500&height=40&lines=FEATURED+PROJECTS" alt="Featured Projects" />
 
 <table>
   <tr>
@@ -102,11 +105,12 @@ With **10+ years of software engineering experience**, I connect the analytical 
 
 ---
 
-### 📊 GitHub Analytics
+<!-- TITULO EM BUNGEE INLINE -->
+<img src="https://readme-typing-svg.demolab.com?font=Bungee+Inline&weight=400&size=24&pause=1000&color=000000&center=false&vCenter=true&width=500&height=40&lines=GITHUB+ANALYTICS" alt="GitHub Analytics" />
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=riquelima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Henrique's GitHub stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquelima&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=riquelima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Henrique's GitHub stats" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=riquelima&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
 </div>
 
 <div align="center">
